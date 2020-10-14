@@ -20,7 +20,7 @@ The main aim of this training program is to provide you a path you have to work 
    * Training and prediction
    * Accuracy(Confusion matrix)
 6. [Part3: Sklearn Notebook](https://www.guru99.com/scikit-learn-tutorial.html)
-7. [Part4: Project:Sentiment Analysis using Naive Bayes ](Part4-Sentiment.md)
+7. [Part4: Project:Sentiment Analysis using Naive Bayes ](https://towardsdatascience.com/creating-the-twitter-sentiment-analysis-program-in-python-with-naive-bayes-classification-672e5589a7ed)
 8. [Part4: Project:Sentiment Analysis Notebook](Part4-Sentiment.ipynb)
 9. [Part5: Competition-Checking Accuracy for different models](Part5-Competetion-Accuracy.md)  
 10. [part6: Bonus: Bert](Part6-Bonus-bert.md)  
