@@ -14,12 +14,12 @@ The main aim of this training program is to provide you a path you have to work 
 2. [Part1: BOW Notebook](Part1-BOW.ipynb)
 3. [Part2: Term Frequency-Inverse Document Frequency ](Part2-TF-IDF.md)
 4. [Part2: TF-IDF Notebook](Part2-TF-IDF.ipynb)
-5. [Part3: Sklearn](Part3-Sklearn.md)
+5. [Part3: Sklearn](https://www.guru99.com/scikit-learn-tutorial.html)
    * Splitting train and test dataset
    * Model selection
    * Training and prediction
    * Accuracy(Confusion matrix)
-6. [Part3: Sklearn Notebook](Part3-Sklearn.ipynb)
+6. [Part3: Sklearn Notebook](https://www.guru99.com/scikit-learn-tutorial.html)
 7. [Part4: Project:Sentiment Analysis using Naive Bayes ](Part4-Sentiment.md)
 8. [Part4: Project:Sentiment Analysis Notebook](Part4-Sentiment.ipynb)
 9. [Part5: Competition-Checking Accuracy for different models](Part5-Competetion-Accuracy.md)  
