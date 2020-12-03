@@ -1,7 +1,7 @@
 # How To Use Scikit-Learn in NLP?
 
 **Scikit learn is a library used to perform machine learning in Python. Scikit learn is an open source library**.
-### while performing an NLP task there are three things that needs to be modified
+### While performing an NLP task there are three things that needs to be modified
 * The words of the data
 * The obtained words in to their vector form
 * Then putting them in a stack and predict accordingly
