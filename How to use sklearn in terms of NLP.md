@@ -18,7 +18,7 @@
 
 ## importing the dataset
 
-* `data_source_url = "https://raw.githubusercontent.com/kolaveridi/kaggle-Twitter-US-Airline-Sentiment-/master/Tweets.csv"`
+* `data_source_url = "data.csv"`
 * `data = pd.read_csv(data_source_url)`
 
 ## Data preprocessing will be done according to the given dataset, like removal of null or zero values or normalization etc according to the data provided.
